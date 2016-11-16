@@ -3,7 +3,7 @@
 # Copyright (c) 1988-2016 svengato. All rights reserved.
 # --------------------------------------------------------------
 library(shiny)
-#library(markdown) # already imported by shiny?
+library(markdown)
 
 source("physics.R")
 # --------------------------------------------------------------
