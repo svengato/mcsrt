@@ -40,6 +40,6 @@ photon, and the mean value and probability density of these quantities across al
 
 #### (Non-)License
 
-Copyright &copy; 1988-2016 svengato
+Copyright &copy; 1988-2017 svengato
 
 All rights reserved.
