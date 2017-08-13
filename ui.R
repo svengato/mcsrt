@@ -1,6 +1,6 @@
 # --------------------------------------------------------------
 # Monte Carlo Simulation of Radiation Trapping
-# Copyright (c) 1988-2016 svengato. All rights reserved.
+# Copyright (c) 1988-2017 svengato. All rights reserved.
 # --------------------------------------------------------------
 library(shiny)
 library(markdown)
