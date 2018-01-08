@@ -1,6 +1,6 @@
 # --------------------------------------------------------------
 # Monte Carlo Simulation of Radiation Trapping
-# Copyright (c) 1988-2017 svengato. All rights reserved.
+# Copyright (c) 1988-2018 svengato. All rights reserved.
 # --------------------------------------------------------------
 library(hexbin) # for hexbinplot()
 library(plotrix) # for draw.circle()
